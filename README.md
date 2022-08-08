@@ -1,4 +1,4 @@
-### LinkedIn: 
+### LinkedIn: https://www.linkedin.com/in/max-link
 ### Skills:
 
 Java 
