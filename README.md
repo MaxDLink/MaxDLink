@@ -7,12 +7,12 @@ I enjoy establishing meaningful connections with people to create a productive a
 
 ## Completed Courses
 
-Entry level java course 
-Entry level C++ course 
-Data structures course 
-Entry level data science course 
-Data Mining course in R 
-Machine Learning course 
+Entry level java course, 
+Entry level C++ course, 
+Data structures course, 
+Entry level data science course, 
+Data Mining course in R, 
+Machine Learning course, 
 AI Course in python
 
 
