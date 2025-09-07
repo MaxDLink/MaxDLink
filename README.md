@@ -1,13 +1,27 @@
-### LinkedIn: https://www.linkedin.com/in/max-link
-### Skills:
+Experience in group settings with a strong focus on team leadership and problem solving. 
 
-Java 
+I enjoy establishing meaningful connections with people to create a productive and cooperative atmosphere where every individual success builds towards group success. Breaking through my comfort zone is my main goal in life and failing in new environments is better than succeeding in familiar places.
 
-C++ 
 
-Sqlite 
+Completed Courses: 
+Entry level java course 
+Entry level C++ course 
+Data structures course 
+Entry level data science course 
+Data Mining course in R 
+Machine Learning course 
+AI Course in python
 
-Lua
+
+### Technologies:
+
+AWS 
+
+JavaScript 
+
+
+
+
 
 
 
