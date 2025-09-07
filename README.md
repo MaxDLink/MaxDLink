@@ -104,7 +104,7 @@ https://github.com/MaxDLink/dm-lab3/tree/main
 
 ### JavaScript 
 
-- Lit elements 
+- LitElement 
 
 
 
