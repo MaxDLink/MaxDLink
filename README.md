@@ -3,7 +3,8 @@ Experience in group settings with a strong focus on team leadership and problem 
 I enjoy establishing meaningful connections with people to create a productive and cooperative atmosphere where every individual success builds towards group success. Breaking through my comfort zone is my main goal in life and failing in new environments is better than succeeding in familiar places.
 
 
-Completed Courses: 
+### Completed Courses: 
+
 Entry level java course 
 Entry level C++ course 
 Data structures course 
