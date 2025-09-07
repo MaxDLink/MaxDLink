@@ -80,6 +80,28 @@ https://github.com/MaxDLink/dm-lab3/tree/main
 
 AWS 
 
+- Lambda
+  
+- API Gateway 
+
+- Event Bridge
+
+- Cognito
+
+- CDK
+
+- Bedrock
+
+  - Sonic
+    
+  - Claude
+
+- Knowledge Base
+
+- Fargate
+
+- Route 53 
+
 JavaScript 
 
 
