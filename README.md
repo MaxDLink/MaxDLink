@@ -15,7 +15,7 @@ AI Course in python
 
 ### Featured Repos:
 
-1) #### CS5-7319FinalProjectGroup3-Link-Masters-Vincent
+#### CS5-7319FinalProjectGroup3-Link-Masters-Vincent
 
 https://battleshipdown.com/
 
@@ -26,24 +26,24 @@ Event bus architecture for feature independence
 REST API version for comparison and rationale of best architecture to select 
 
 
-2) #### trip-planner
+#### trip-planner
 
 Uses Crew AI to create a twin agent AI system that helps the user plan trips
 
 Serper dev tool is used to search internet for information
 
 
-3) #### multithread/tree/main
+#### multithread/tree/main
 
 Uses a local ai model (GPT4All) to fix code for the user
 
 Multi-pass system
 
-4) #### ollama-models
+#### ollama-models
 
 Comparing local models performance
 
-5) #### py-final
+#### py-final
 
 Knowledge Retrieval-Augmented Generation (KRAG) 
 
@@ -51,7 +51,7 @@ Variation of RAG
 
 Retrieval experiment in python 
 
-6) #### dm-lab3/tree/main
+#### dm-lab3/tree/main
 
 Classify Covid data into high and low infection rate in R 
 
@@ -63,7 +63,7 @@ Compares classification methods:
 
   3) Support Vector Machine (SVM)
 
-### Technologies:
+### Technologies
 
 AWS 
 
