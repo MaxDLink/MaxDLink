@@ -78,7 +78,7 @@ https://github.com/MaxDLink/dm-lab3/tree/main
 
 ## Technologies
 
-AWS 
+### AWS 
 
 - Lambda
   
@@ -102,7 +102,10 @@ AWS
 
 - Route 53 
 
-JavaScript 
+### JavaScript 
+
+- Lit elements 
+
 
 
 
